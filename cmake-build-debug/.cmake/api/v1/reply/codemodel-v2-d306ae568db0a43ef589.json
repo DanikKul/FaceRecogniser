@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a7e4b2e8e78d84bf86c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rec",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rec-Debug-3ecdbf6eb422e6373da9.json",
+					"name" : "rec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rec_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rec_autogen-Debug-75ef8cbd4470147a611c.json",
+					"name" : "rec_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rec_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rec_autogen_timestamp_deps-Debug-d71038fb6770e6325d9b.json",
+					"name" : "rec_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dankulakovich/rec/cmake-build-debug",
+		"source" : "/Users/dankulakovich/rec"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

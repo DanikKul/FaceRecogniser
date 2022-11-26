@@ -1,0 +1,9 @@
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/rec.dir
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/install.dir
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/rec_autogen_timestamp_deps.dir
+/Users/dankulakovich/rec/cmake-build-debug/CMakeFiles/rec_autogen.dir
